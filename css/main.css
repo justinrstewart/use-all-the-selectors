@@ -1,71 +1,22 @@
-body {
-  background-color: #fdf6e3;
+html {
+  background-color: #fdf6e3;
 }
 
-header {
-  font-size: 1.5rem;
-}
-
-footer {
-  font-size: 1.5rem;
+header, footer {
+  font-size: 1.5rem;
 }
 
 nav ul {
-  font-family: sans-serif;
-}
-
-.logo {
-  text-transform: uppercase;
+  font-family: sans-serif;
 }
 
 .wrapper {
-  background-color: #eee8d5;
+  background-color: #eee8d5;
 }
 
-#contents {
-  color: #93a1a1;
+.logo {
+  text-transform: uppercase;
 }
 
-#favs {
-  color: #93a1a1;
-}
-
-#facts {
-  color: #93a1a1;
-}
-
-#types {
-  color: #93a1a1;
-}
-
-.wrapper > .dfn {
-  background-color: #b58900;
-}
-
-div > strong {
-  color: #fff;
-}
-
-[rel="external"] {
-  background-color: #2694d8;
-}
-
-[href="index.html"] {
-  background-color: #719e07;
-}
-
-[href="history.html"] {
-  background-color: #719e07;
-}
-
-[href="contact.html"] {
-  background-color: #719e07;
-}
-
-[href="#favs"] {
-  background-color: #719e07;
-}
-
-ol li {
-  color: #719e47;
-}
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
